@@ -1,0 +1,1 @@
+Coloque nesta pasta os arquivos do Projeto2 referente ao frontend feito em React
